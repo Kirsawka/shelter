@@ -1,6 +1,6 @@
 # Shelter
 
-Shelter – это учебный проект Stage#1 курса "JavaScript/Front-end" школы Rolling Scopes School, в ходе выполнения которого сверстан сайт, состоящий из двух страниц.
+Shelter – это учебный проект Stage#1 курса "JavaScript/Front-end" школы Rolling Scopes School от [EPAM](https://www.epam.com/), в ходе выполнения которого сверстан сайт, состоящий из двух страниц.
 
 **[Демо](https://kirsawka.github.io/shelter/pages/main/index.html)**
 
